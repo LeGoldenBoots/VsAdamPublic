@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Canvas",
+			"adam",
+			[
+				67,
+				43,
+				62
+			]
+		],
+		[
+			"Ignorant",
+			"adam-ignorant",
+			[
+				67,
+				43,
+				62
+			]
+		],
+		[
+			"Fireworks",
+			"adam-true-freeplay",
+			[
+				67,
+				43,
+				62
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "adam",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Unfinished Business",
+	"weekName": "Unfinished Business",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

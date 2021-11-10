@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.085,
+			"portrait": "adamignorant",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AHH!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adamignorant",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ow"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adamignorant",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That hurt really bad."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adamignorant",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bu-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adamignorant",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adamignorant",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm glowing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adamignorant",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "But the tingling hurts even worse now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adamignorant",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Maybe another song will wear off the tingling. Do you know what's happening?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stickbfshrugportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stickbfportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bebpy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adamignorant",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright! Here goes another one!"
+		}
+	]
+}

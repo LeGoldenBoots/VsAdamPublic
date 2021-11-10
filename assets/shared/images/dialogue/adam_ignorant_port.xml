@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="adam_ignorant_port.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portrait0000" x="0" y="0" width="380" height="614"/>
+	<SubTexture name="portrait0001" x="0" y="0" width="380" height="614"/>
+	<SubTexture name="portrait0002" x="0" y="0" width="380" height="614"/>
+</TextureAtlas>

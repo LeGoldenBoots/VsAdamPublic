@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hi, i mean beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickbfportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh goodness me, you almost gave me a heart\\nattack!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "Especially with that stadium speaker you have there.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "behpy",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickbfportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyhow, that girl on the speakers's father has something to do with... all of this.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "Apparently at the cafe, he thought I was flirting with her or something, and he sent me to this place, astray.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm sure you get the jist of it, I assume you are here for...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "babep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickbfportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "OW!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"expression": "talk",
+			"text": "Sorry, I feel some tingling.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "adam"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I assume your name is...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stickbfportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then we shall commence."
+		},
+		{
+			"speed": 0.135,
+			"portrait": "adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sir XML."
+		}
+	]
+}

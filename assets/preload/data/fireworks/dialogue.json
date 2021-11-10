@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ow..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My head..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ow... Oh!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm back in my home dimension!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Unfortunately, I have became a black hole."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Guess my time is over"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "guess i'll-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wha?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Jeez, did you just become a blackhole?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes, unfortunately."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dang, that sucks"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do you happen to have a girlfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "because you look like someone I met eariler."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, but she's hanging out with Sally right now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh ok."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosmic_adam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But hey, at least you have a few minutes, right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cosbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's sing a song to cheer you up!"
+		}
+	]
+}

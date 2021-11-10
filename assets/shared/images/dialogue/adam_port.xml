@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="adam_port.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portrait0000" x="0" y="0" width="306" height="613" frameX="-2" frameY="-6" frameWidth="313" frameHeight="627"/>
+	<SubTexture name="portrait0001" x="306" y="0" width="307" height="627" frameX="-3" frameY="0" frameWidth="313" frameHeight="627"/>
+	<SubTexture name="portrait0002" x="613" y="0" width="308" height="621" frameX="-3" frameY="-3" frameWidth="313" frameHeight="627"/>
+	<SubTexture name="portrait0003" x="921" y="0" width="313" height="619" frameX="0" frameY="-3" frameWidth="313" frameHeight="627"/>
+	<SubTexture name="portrait0004" x="921" y="0" width="313" height="619" frameX="0" frameY="-3" frameWidth="313" frameHeight="627"/>
+	<SubTexture name="portrait0005" x="921" y="0" width="313" height="619" frameX="0" frameY="-3" frameWidth="313" frameHeight="627"/>
+</TextureAtlas>

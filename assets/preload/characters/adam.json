@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				42
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				68
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				233
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "adam idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-217,
+				161
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "adam right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				124
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "adam left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				219
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "adam up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "adam down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/adam/adam",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "adam",
+	"flip_x": false,
+	"healthbar_colors": [
+		46,
+		34,
+		46
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

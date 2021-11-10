@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="adam-true_assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="adam true down0000" x="0" y="0" width="940" height="1221" frameX="-2" frameY="-39" frameWidth="1205" frameHeight="1833"/>
+	<SubTexture name="adam true down0001" x="0" y="0" width="940" height="1221" frameX="-2" frameY="-39" frameWidth="1205" frameHeight="1833"/>
+	<SubTexture name="adam true down0002" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0003" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0004" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0005" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0006" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0007" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0008" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0009" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0010" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0011" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0012" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0013" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0014" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0015" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0016" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0017" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0018" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0019" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0020" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0021" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0022" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0023" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true down0024" x="940" y="0" width="1205" height="1833"/>
+	<SubTexture name="adam true idle0000" x="2145" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0001" x="2145" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0002" x="2518" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0003" x="2518" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0004" x="2891" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0005" x="2891" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0006" x="3264" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0007" x="3264" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0008" x="3637" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0009" x="3637" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0010" x="4010" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0011" x="4010" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0012" x="4383" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0013" x="4383" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0014" x="4756" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0015" x="4756" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0016" x="5129" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0017" x="5502" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0018" x="5502" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0019" x="5875" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0020" x="5875" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0021" x="6248" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0022" x="6248" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0023" x="6621" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0024" x="6621" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0025" x="6994" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0026" x="6994" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0027" x="7367" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0028" x="7367" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0029" x="7740" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0030" x="7740" y="0" width="373" height="798"/>
+	<SubTexture name="adam true idle0031" x="0" y="1833" width="373" height="798"/>
+	<SubTexture name="adam true idle0032" x="0" y="1833" width="373" height="798"/>
+	<SubTexture name="adam true idle0033" x="373" y="1833" width="373" height="798"/>
+	<SubTexture name="adam true left0000" x="746" y="1833" width="682" height="895" frameX="0" frameY="0" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0001" x="746" y="1833" width="682" height="895" frameX="0" frameY="0" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0002" x="746" y="1833" width="682" height="895" frameX="0" frameY="0" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0003" x="746" y="1833" width="682" height="895" frameX="0" frameY="0" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0004" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0005" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0006" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0007" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0008" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0009" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0010" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0011" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0012" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0013" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true left0014" x="1428" y="1833" width="707" height="895" frameX="-7" frameY="-5" frameWidth="714" frameHeight="900"/>
+	<SubTexture name="adam true right0000" x="2135" y="1833" width="901" height="1154" frameX="0" frameY="-35" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0001" x="2135" y="1833" width="901" height="1154" frameX="0" frameY="-35" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0002" x="2135" y="1833" width="901" height="1154" frameX="0" frameY="-35" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0003" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0004" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0005" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0006" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0007" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0008" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0009" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0010" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0011" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0012" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0013" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0014" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0015" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0016" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0017" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0018" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0019" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0020" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0021" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0022" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0023" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true right0024" x="3036" y="1833" width="888" height="1223" frameX="-7" frameY="0" frameWidth="901" frameHeight="1223"/>
+	<SubTexture name="adam true up0000" x="3924" y="1833" width="1061" height="1073" frameX="-49" frameY="-100" frameWidth="1110" frameHeight="1174"/>
+	<SubTexture name="adam true up0001" x="3924" y="1833" width="1061" height="1073" frameX="-49" frameY="-100" frameWidth="1110" frameHeight="1174"/>
+	<SubTexture name="adam true up0002" x="4985" y="1833" width="1010" height="1174" frameX="0" frameY="0" frameWidth="1110" frameHeight="1174"/>
+	<SubTexture name="adam true up0003" x="4985" y="1833" width="1010" height="1174" frameX="0" frameY="0" frameWidth="1110" frameHeight="1174"/>
+	<SubTexture name="adam true up0004" x="4985" y="1833" width="1010" height="1174" frameX="0" frameY="0" frameWidth="1110" frameHeight="1174"/>
+</TextureAtlas>
